@@ -1,0 +1,103 @@
+
+
+ [
+    {
+      "id":1,
+      "class": "pa-0",
+      "sold": "-20%",
+      "image": "https://image.doba.com/dg9-CnDQwUhopFVq/tactical-rifle-case.webp",
+      "title": "KD 8 EXT",
+      "price": "$ 145.00"
+    },
+    {
+      "id":2,
+      "class": "pa-0",
+      "sold": "-30%",
+      "image": "https://image.doba.com/dg9-APVRBqtvlKbS/mens-new-muscle-t-shirt-gym-hooded-sports-short-sleeve-striped-slim-t-shirt.webp",
+      "title": "Jordan Galaxy",
+      "price": "$ 599.00"
+    },
+    {
+      "id":3,
+      "class": "py-0 pl-0",
+      "sold": "-17%",
+      "image": "https://image.doba.com/dg9-MReSVKhvrQvi/space-coast-shirt---mens-shirt.webp",
+      "title": "Nike SB Trainerendor Leathe",
+      "price": "$ 190.00"
+    },
+
+    {
+      "id":4,
+      "class": "pa-0",
+      "sold": "-22%",
+      "image": "https://image.doba.com/dg9-AvVZtWbQfcqF/big-children-shoes-boys-breathable-sneakers-kids-outdoor-sport-running-shoes-hollow-sole-tenis-infantil-basket-footwear-summer.webp",
+      "title": "Air Jordan Spike 40 iD",
+      "price": "$ 220.00"
+    },
+    {
+      "id":5,
+      "class": "pa-0",
+      "sold": "-18%",
+      "image": "https://image.doba.com/dg9-LUVnAcaSgCDR/women-walking-shoes-sock-sneakers.webp",
+      "title": "Nike Air Footscape Magista Flyknit",
+      "price": "$ 235.00"
+    },
+    {
+      "id":6,
+      "class": "py-0 pl-0",
+      "sold": "-40%",
+      "image": "https://image.doba.com/dg9-KtFcvuhEVQDb/entrepreneur-t-shirt-streetwear-summerwinter-tees-merchyprint.webp",
+      "title": "Nike Air Zoom Huarache 2k4",
+      "price": "$ 190.00"
+    },
+
+    {
+      "id":7,
+      "class": "pa-0",
+      "sold": "-13%",
+      "image": "https://images.unsplash.com/photo-1612724189298-89d36b10b26d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGpvcmRhbiUyMHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Jordan Horizon",
+      "price": "$ 230.00"
+    },
+    {
+      "id":8,
+      "class": "pa-0",
+      "sold": "-15%",
+      "image": "https://images.unsplash.com/photo-1641792669610-83e23d551bec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFpciUyMGZvcmNlJTIwam9yZGFuJTIwc2hvZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Air Jordan xx9 Low",
+      "price": "$ 185.00"
+    },
+    {
+      "id":9,
+      "class": "py-0 pl-0",
+      "sold": "-10%",
+      "image": "https://images.unsplash.com/photo-1611299106168-277a21fad977?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8am9yZGFuJTIwc2hvZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "LeBron XIII Premium AS iD",
+      "price": "$ 265.00"
+    },
+    {
+      "id":10,
+      "class": "pa-0",
+      "sold": "-19%",
+      "image": "10.png",
+      "title": "Air Jordan 1 Retro Hight Nouveau",
+      "price": "$ 190.00"
+    },
+    {
+      "id":11,
+      "class": "pa-0",
+      "sold": "-16%",
+      "image": "11.png",
+      "title": "Nike Air Presto",
+      "price": "$ 175.00"
+    },
+    {
+      "id":12,
+      "class": "py-0 pl-0",
+      "sold": "-10%",
+      "image": "12.png",
+      "title": "KD 8 Premium AS iD",
+      "price": "$ 245.00"
+    }
+
+  ]
